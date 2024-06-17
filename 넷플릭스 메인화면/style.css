@@ -116,13 +116,74 @@ main{
     flex-direction: row;
     align-items: center;
 }
-.question{
+.question22{
+    font-size: 23px;
+    color: white;
+    background-color: rgb(80, 80, 80, 0.5);
+    padding: 25px;
+    padding-right: 100px;
+    position: relative;
+}
+.question33{
     font-size: 23px;
     color: white;
     background-color: rgb(80, 80, 80, 0.5);
     padding: 25px;
     padding-right: 100px;
 }
+.question44{
+    font-size: 23px;
+    color: white;
+    background-color: rgb(80, 80, 80, 0.5);
+    padding: 25px;
+    padding-right: 100px;
+}
+.question55{
+    font-size: 23px;
+    color: white;
+    background-color: rgb(80, 80, 80, 0.5);
+    padding: 25px;
+    padding-right: 100px;
+}
+.question66{
+    font-size: 23px;
+    color: white;
+    background-color: rgb(80, 80, 80, 0.5);
+    padding: 25px;
+    padding-right: 100px;
+}
+.question77{
+    font-size: 23px;
+    color: white;
+    background-color: rgb(80, 80, 80, 0.5);
+    padding: 25px;
+    padding-right: 100px;
+}
+.question22:hover{
+    background-color: rgba(144, 144, 144, 0.5);
+    transition: 0.3s;
+}
+.question33:hover{
+    background-color: rgba(144, 144, 144, 0.5);
+    transition: 0.3s;
+}
+.question44:hover{
+    background-color: rgba(144, 144, 144, 0.5);
+    transition: 0.3s;
+}
+.question55:hover{
+    background-color: rgba(144, 144, 144, 0.5);
+    transition: 0.3s;
+}
+.question66:hover{
+    background-color: rgba(144, 144, 144, 0.5);
+    transition: 0.3s;
+}
+.question77:hover{
+    background-color: rgba(144, 144, 144, 0.5);
+    transition: 0.3s;
+}
+
 footer{
     max-width: 75%;
     margin: 0px auto;
@@ -132,3 +193,13 @@ li{
     line-height: 35px;
 }
 footer a{color: rgb(182, 182, 182);}
+#question{
+    color: white;
+}
+#middle #question div{
+    color: white;
+    font-size: 23.5px;
+    background-color: rgb(80, 80, 80, 0.5);
+    padding: 25px;
+    display: none;
+}
